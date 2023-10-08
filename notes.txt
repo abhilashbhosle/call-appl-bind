@@ -1,0 +1,9 @@
+CALL:
+=====
+call is a function that you use to change the value of this inside a function
+ and execute it with the arguments provided.
+
+ APPLY:
+ ======
+ The Apply function is very similar to the Call function. The only difference between call and apply is the difference
+  in how arguments are passed.
